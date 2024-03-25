@@ -77,4 +77,4 @@ Level-order traversal visits the nodes of the binary tree level by level, from l
 This project was created by:
 
 - [Solomon Kassa](https://github.com/Solomonkassa)
-- [Endesew Bantayehu](https://github.com/EndesewB)
+
